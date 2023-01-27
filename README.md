@@ -1,9 +1,8 @@
 # JavaCourseExercise
 
+Udemy's Course Exercises:
 
-Udemy's Course:
-
-Course: Java Programming Masterclass updated to Java 17
+Course Name : Java Programming Masterclass updated to Java 17
 
 Lecturer: Tim Buchalka
 
